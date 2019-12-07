@@ -1,6 +1,6 @@
 # mvvm_scoped_rxdart_dio
 
-A new Flutter application.
+this sample combine architectures in flutter . 
 
 ## Getting Started
 
