@@ -1,4 +1,4 @@
-# mvvm_soped_rxdart
+# mvvm_scoped_rxdart_dio
 
 A new Flutter application.
 
